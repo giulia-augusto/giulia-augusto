@@ -1,8 +1,5 @@
 ## Olá!! Eu sou a Giulia Augusto 👋
 
-
-- 🔭 Hoje estou trabalhando com back-end.
-- 🌱 Estudo Analise e desenvolvimento de sitemas.
 - 📫 Contate-me pelo e-mail: giuliaaa2010@gmail.com
 
  <div>
